@@ -1,11 +1,12 @@
 # Python Basics 🐍
-This repository contains Python practice files from Day 1 to Day 4.
+Practice files from Day 1 to Day 4 of Python learning.
 
-## Topics Covered
-- Print Statements
-- Loops (for, while)
-- Conditional Statements
-- Basic Programs (tables, sum, even numbers)
+## 📁 Folder Structure
 
-## Author
-Varun Vats ✌️ | [varun-ai-developer](https://github.com/varun-ai-developer)
+- `Day01/` → Print, Input, Hello World
+- `Day02/` → Loops, Even Numbers
+- `Day03/` → Tables, Loop Practice
+- `Day04/` → Problem Solving with Loops
+
+## 🧑‍💻 Author
+Varun Vats | Aspiring AI Developer
